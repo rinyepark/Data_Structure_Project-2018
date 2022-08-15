@@ -25,12 +25,9 @@
 ### 2) Final
 
 <img src="https://user-images.githubusercontent.com/109687076/184594172-917873ab-5add-4522-9ff3-16edbeaaef67.JPG" width="33%"><img src="https://user-images.githubusercontent.com/109687076/184594174-53f6698b-0370-49f3-90e4-b1ef227ef894.JPG" width="33%"><img src="https://user-images.githubusercontent.com/109687076/184594175-92535548-9b0f-49f3-9bc5-cff78218d01e.JPG" width="33%">
-
 <img src="https://user-images.githubusercontent.com/109687076/184594176-fd6ae431-8346-45c9-8c7f-08ced32c1ee3.JPG" width="33%"><img src="https://user-images.githubusercontent.com/109687076/184594178-c37461e5-ddad-4e98-a142-2eddf78fcf56.JPG" width="33%"><img src="https://user-images.githubusercontent.com/109687076/184594180-edb2ee67-35e8-44f1-b2e0-ba0f5fe6c853.JPG" width="33%">
-
 <img src="https://user-images.githubusercontent.com/109687076/184594181-f85a683a-f7c2-4d0e-baea-e33324393465.JPG" width="33%"><img src="https://user-images.githubusercontent.com/109687076/184594183-adf37e68-84e1-4016-b095-44132fe30827.JPG" width="33%"><img src="https://user-images.githubusercontent.com/109687076/184594185-9f04314e-b888-47c1-aba6-82494e6a18ca.JPG" width="33%">
 <img src="https://user-images.githubusercontent.com/109687076/184594187-0f5486bb-2c14-496d-8094-2446b4681f5f.JPG" width="33%"><img src="https://user-images.githubusercontent.com/109687076/184594188-8e75aebf-aac6-4c2c-9b31-7a9dd519ef9d.JPG" width="33%"><img src="https://user-images.githubusercontent.com/109687076/184594191-81b84ca6-20c8-4780-a160-58c9f47c6ab5.JPG" width="33%">
 <img src="https://user-images.githubusercontent.com/109687076/184594192-5332843e-8a52-4a00-8e34-41a1fe7e500e.JPG" width="33%"><img src="https://user-images.githubusercontent.com/109687076/184594197-80de706f-f7d0-4376-ae77-a2c6cc5f2409.JPG" width="33%"><img src="https://user-images.githubusercontent.com/109687076/184594198-757d5073-5cbb-4e72-9dbf-803fa21465e9.JPG" width="33%">
-
 <img src ="https://user-images.githubusercontent.com/109687076/184594200-f3900084-9d95-45e8-a231-12c3218b3e10.JPG" width = "33%"><img src ="https://user-images.githubusercontent.com/109687076/184594169-77dba923-6942-4cbc-ae20-6c0d5121d395.JPG" width = "33%">
 
